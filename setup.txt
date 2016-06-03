@@ -1,0 +1,12 @@
+Spark
+Download spark http://spark.apache.org/downloads.html. In step 2 select prebuilt for hadoop2.6 or later.
+Unzip spark in a good place of you liking
+
+Python
+install python 2.7 (or whatever version of python you prefer)
+install jupyter using pip http://jupyter.readthedocs.io/en/latest/install.html
+
+Create a pyspark kernel for jupyter
+https://wegetsignal.wordpress.com/2016/03/24/setup-to-run-jupyter-notebook-with-pyspark/
+
+ 
