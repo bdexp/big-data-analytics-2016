@@ -9,18 +9,15 @@ Last few years have seen significant advances in the technologies for data colle
 ## Details
 
 **Dates:** Mon 30th May 2016 to Fri 3rd June 2016
+
 **Location:** Chalmers Conference Building, Campus Johanneberg (room Ascom)
+
 **Schedule:**
   Mon: Course Introduction
   Tue: Introduction to Apache Spark - Architecture, Spark SQL, Graph data processing (Lecture and Applications)
   Wed: Data Exploration and Visualization (Exercises)
   Thu: [Analytics with Spark and MLlib](https://github.com/bdexp/big-data-analytics-2016/blob/master/Day%204%20-%20Analytics/BD2016%20Course.pdf) (Lecture and Exercises)
   Fri: [Data Streaming](http://www.slideshare.net/VincenzoGulisano/data-streaming-in-a-nutshell-and-sparks-window-operations), Recap and Discussion
-**Contacts:** 
-  Devdatt Dubhashi - dubhashi@chalmers.se
-  Camelia Elena Ciolac - camelia@chalmers.se
-  Hans Salomonsson - hans.salomonsson@chalmers.se
-  Oscar Ivarsson - ioscar@chalmers.se
 
 ## Home Assignments
 
@@ -40,7 +37,14 @@ Built on the discussions in the last day, write a short summary (2-5 pages) of h
 
 ## Additional Info
 
-The public cluster together with the Jupyter notebook will be up and running until 9/6. The public S3 bucket will be available during this time as well, however the access ID and secret key to retrieve the data are removed from the notebooks in the Github repo. If you don't have them anymore, just send an email to ioscar@chalmers.se. Otherwise you can find the dataset [here](http://grouplens.org/datasets/movielens/) as well.
+The public cluster together with the Jupyter notebook will be up and running until 9/6. The public S3 bucket will be available during this time as well, however the access ID and secret key to retrieve the data are removed from the notebooks in the Github repo. Otherwise you can find the dataset [here](http://grouplens.org/datasets/movielens/) as well.
+
+### Study Resources
+
+* [Learning Spark by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia (2015), O'Reilly.](http://shop.oreilly.com/product/0636920028512.do)
+* [Spark Documentation](http://spark.apache.org/docs/latest/)
+* [GraphFrames](http://graphframes.github.io/)
+* [PySpark API](https://spark.apache.org/docs/latest/api/python/)
 
 ## Content
 
