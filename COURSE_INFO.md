@@ -32,7 +32,7 @@ Submission: By email
 
 ### Movie Recommender System: Complete Day 4 - Analytics Exercise 2
 
-1. Train a movie recommender system. Use the MovieLens dataset (ratings.csv) and append some ratings of movies you have seen. You can follow this guide.
+1. Train a movie recommender system. Use the MovieLens dataset (ratings.csv) and append some ratings of movies you have seen. You can follow [this](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html) guide.
 
 2. From the model, extract the user features (model.userFeatures()) and cluster them in 20 clusters. Where did you end up? Can you find something interesting from that cluster (you might need to join with other files, e.g. movies.csv) ?
 
