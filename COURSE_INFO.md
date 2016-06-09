@@ -13,15 +13,16 @@ Last few years have seen significant advances in the technologies for data colle
 **Location:** Chalmers Conference Building, Campus Johanneberg (room Ascom)
 
 **Schedule:**
-  Mon: Course Introduction
+
+   Mon: Course Introduction
   
-  Tue: Introduction to Apache Spark - Architecture, Spark SQL, Graph data processing (Lecture and Applications)
+   Tue: Introduction to Apache Spark - Architecture, Spark SQL, Graph data processing (Lecture and Applications)
   
-  Wed: Data Exploration and Visualization (Exercises)
+   Wed: Data Exploration and Visualization (Exercises)
   
-  Thu: [Analytics with Spark and MLlib](https://github.com/bdexp/big-data-analytics-2016/blob/master/Day%204%20-%20Analytics/BD2016%20Course.pdf) (Lecture and Exercises)
+   Thu: [Analytics with Spark and MLlib](https://github.com/bdexp/big-data-analytics-2016/blob/master/Day%204%20-%20Analytics/BD2016%20Course.pdf) (Lecture and Exercises)
   
-  Fri: [Data Streaming](http://www.slideshare.net/VincenzoGulisano/data-streaming-in-a-nutshell-and-sparks-window-operations), Recap and Discussion
+   Fri: [Data Streaming](http://www.slideshare.net/VincenzoGulisano/data-streaming-in-a-nutshell-and-sparks-window-operations), Recap and Discussion
 
 ## Home Assignments
 
